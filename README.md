@@ -36,7 +36,7 @@ AI/ML final-year mini projects
 
 Follow the steps below to run this project locally:
 
-🔹 1. Clone the repository git clone https://github.com/Kavyaveeregowda/AI-Resume-Ranker cd AI-Resume-Ranker
+🔹 1. Clone the repository git clone https://github.com/preethamll/AI-Resume-Ranker cd AI-Resume-Ranker
 
 🔹 2. Create a virtual environment python -m venv venv
 
